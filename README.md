@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asatsa a Masters student at Ghent University Belgium
+- 👋 Hi, I’m @Asatsa an Msc. Marine biology in Belgium
 - 👀 I’m interested in the resilience of marine food chains in the global warming context, genomics, transcriptomics, evolutionary genomics...
 - 🌱 I’m currently working on marine copeopds "Canuella perplexa" looking at their expression of fatty acids...Transcriptomics
 - 💞️ I’m looking to collaborate on anything environmental bioinformatics
